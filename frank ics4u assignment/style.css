@@ -1,0 +1,6 @@
+ul{list-style-type: none;margin: 0;padding: 0;display: inline-block;}
+li{float: left;}
+li a{display: block;color: white;text-align:center padding:500px；text-decoration:none;background-color: black;}
+li a:hover{background-color: white;}
+#p1{float:right ;}
+#demo3{background-color:rgba(255,255,255,0.4);width:33%;border:10px double white;padding: 50px;}
